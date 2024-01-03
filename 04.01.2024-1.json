@@ -1,0 +1,25 @@
+{
+    "name": "James Moore",
+    "age": 85,
+    "address": {
+        "street": "Wilson Trail",
+        "city": "East Terrance",
+        "state": "Connecticut",
+        "zip": "75682"
+    },
+    "contact": {
+        "phone": "6884110838",
+        "servicePhone": "800079802"
+    },
+    "birthday": "1940-16-02",
+    "ip": "77.254.234.244",
+    "foo": "bar",
+    "profile": {
+        "about": "We effort surface project character. Rich around career short.",
+        "bio": "Modern space big film before page. Compare TV participant choice from as treat. Former hospital despite. Pm professional coach a natural hospital budget."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
