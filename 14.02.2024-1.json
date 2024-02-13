@@ -1,0 +1,25 @@
+{
+    "name": "Scott Casey",
+    "age": 13,
+    "address": {
+        "street": "Brooke Summit",
+        "city": "North Dana",
+        "state": "Minnesota",
+        "zip": "53077"
+    },
+    "contact": {
+        "phone": "+1-346-665-6896x476",
+        "servicePhone": "800525241"
+    },
+    "birthday": "2012-09-10",
+    "ip": "141.68.128.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Her prevent toward. Bit suddenly recently mission anything spring. Boy stand may cold open car.\nNecessary worry according some ask. Free beautiful study upon.",
+        "bio": "Clearly walk general drop husband. Street few local health smile. Next purpose floor government. Next choice security nor."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
