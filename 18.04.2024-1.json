@@ -1,0 +1,25 @@
+{
+    "name": "Terry Pham Jr.",
+    "age": 96,
+    "address": {
+        "street": "Jennifer Turnpike",
+        "city": "Port Deannafort",
+        "state": "Utah",
+        "zip": "58245"
+    },
+    "contact": {
+        "phone": "(364)381-6337",
+        "servicePhone": "800578595"
+    },
+    "birthday": "1929-07-08",
+    "ip": "54.67.163.245",
+    "foo": "bar",
+    "profile": {
+        "about": "Treat beyond lot environmental.",
+        "bio": "Such baby picture alone today indicate medical. South north whole all its management."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
