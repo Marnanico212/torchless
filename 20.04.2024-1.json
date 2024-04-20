@@ -1,0 +1,25 @@
+{
+    "name": "Francisco Benson",
+    "age": 47,
+    "address": {
+        "street": "Foster Landing",
+        "city": "West Jenny",
+        "state": "South Carolina",
+        "zip": "12491"
+    },
+    "contact": {
+        "phone": "269.252.1801",
+        "servicePhone": "800240238"
+    },
+    "birthday": "1978-24-11",
+    "ip": "80.0.113.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Each director ready scientist green. Message ask star whom social.\nSet including bill kid. Design attack employee line heavy another next.",
+        "bio": "Event store media manager. Attorney approach civil section.\nTheory base clearly drop design true ten drop. Treatment bag down likely.\nPart until bit chance force."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
