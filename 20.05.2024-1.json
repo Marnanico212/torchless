@@ -1,0 +1,25 @@
+{
+    "name": "Nichole Nelson",
+    "age": 44,
+    "address": {
+        "street": "Eric Islands",
+        "city": "Port Tonyamouth",
+        "state": "Maryland",
+        "zip": "59034"
+    },
+    "contact": {
+        "phone": "001-698-867-4110x8202",
+        "servicePhone": "800876335"
+    },
+    "birthday": "1981-14-12",
+    "ip": "152.116.138.196",
+    "foo": "bar",
+    "profile": {
+        "about": "One allow owner. Simple take near probably. Hand challenge operation art hold team.",
+        "bio": "Laugh contain true. Organization public conference star natural responsibility.\nEither next treat plant bring rise act. Feeling want Mrs stand. Commercial direction direction theory if list suffer."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
