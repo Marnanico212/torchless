@@ -1,0 +1,25 @@
+{
+    "name": "Edward Lee",
+    "age": 109,
+    "address": {
+        "street": "Potter Meadows",
+        "city": "Josephburgh",
+        "state": "Minnesota",
+        "zip": "43029"
+    },
+    "contact": {
+        "phone": "(526)488-8032x21401",
+        "servicePhone": "800723153"
+    },
+    "birthday": "1916-06-12",
+    "ip": "152.162.182.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Around hair order future hair. Include hit go design. If risk quickly cover.\nIn player clearly gun child. Western spring drive trouble family discussion recent fire.",
+        "bio": "Computer third history administration. Both action realize possible cost new question. Eight few major hotel everyone. Minute research yet."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
