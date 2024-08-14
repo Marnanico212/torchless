@@ -1,0 +1,25 @@
+{
+    "name": "David Schroeder",
+    "age": 15,
+    "address": {
+        "street": "Laura Pike",
+        "city": "Richardbury",
+        "state": "Maryland",
+        "zip": "96931"
+    },
+    "contact": {
+        "phone": "5618587941",
+        "servicePhone": "800242801"
+    },
+    "birthday": "2010-19-05",
+    "ip": "6.135.232.158",
+    "foo": "bar",
+    "profile": {
+        "about": "Now church identify adult together. Mouth threat strategy.\nExactly office report clearly authority research baby. Station skill go. Game unit middle position.",
+        "bio": "Quickly they help. Provide mission yard light owner some ground.\nBar like interesting. Reflect college environmental lot."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
