@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Bradley",
+    "age": 109,
+    "address": {
+        "street": "David Lane",
+        "city": "West Shawn",
+        "state": "Maine",
+        "zip": "17369"
+    },
+    "contact": {
+        "phone": "609-286-4959",
+        "servicePhone": "800483217"
+    },
+    "birthday": "1916-16-05",
+    "ip": "206.50.66.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Successful if answer make their management. Decide final choose. Beat result among future usually various wish public.\nStation child central decide. Recent participant above. Else professor seat.",
+        "bio": "Produce what friend design. Focus heart treatment yet decision pay.\nArgue they quite organization everyone fine me. Man meet instead Congress. Better common wear rather success."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
