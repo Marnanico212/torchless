@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Boone",
+    "age": 17,
+    "address": {
+        "street": "Cody Spur",
+        "city": "New Amandaville",
+        "state": "New Jersey",
+        "zip": "69261"
+    },
+    "contact": {
+        "phone": "001-983-295-7283",
+        "servicePhone": "800246883"
+    },
+    "birthday": "2008-15-03",
+    "ip": "194.36.140.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Form game some beautiful check find ahead live. Off win development.\nFamily close you reveal tell government room employee. Size learn particular investment nor base value.",
+        "bio": "Low debate major clearly into. Civil red product find seem.\nSuggest response top future but. Student open community.\nHalf share far represent from figure."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
