@@ -1,0 +1,25 @@
+{
+    "name": "Michael Mayo",
+    "age": 104,
+    "address": {
+        "street": "Matthew Center",
+        "city": "Wrightburgh",
+        "state": "Oregon",
+        "zip": "79741"
+    },
+    "contact": {
+        "phone": "(284)626-2565x752",
+        "servicePhone": "800269428"
+    },
+    "birthday": "1921-01-10",
+    "ip": "121.179.151.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Find training concern on.\nCan phone statement various defense just option professional. Anything industry wish onto free place task. Start candidate today suffer people.",
+        "bio": "Us suddenly assume fear along. North article development college which. Follow near visit my provide special such."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
