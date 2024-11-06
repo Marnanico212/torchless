@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Cervantes",
+    "age": 32,
+    "address": {
+        "street": "Amanda Springs",
+        "city": "Lake James",
+        "state": "Rhode Island",
+        "zip": "72481"
+    },
+    "contact": {
+        "phone": "485.663.1327",
+        "servicePhone": "800791370"
+    },
+    "birthday": "1993-10-09",
+    "ip": "16.206.157.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Consider some forward citizen card move. Standard establish maintain call. Modern collection mind popular.\nWho writer season final into explain again pretty. Step bill economic unit section tax.",
+        "bio": "Next wear bit herself. Itself doctor life machine. Mention prepare old body. Produce nearly our nothing occur.\nSchool crime son American. Five admit with create attorney thousand top."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
