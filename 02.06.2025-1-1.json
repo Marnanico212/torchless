@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Carey",
+    "age": 52,
+    "address": {
+        "street": "Clark Port",
+        "city": "Wattsview",
+        "state": "New Mexico",
+        "zip": "06182"
+    },
+    "contact": {
+        "phone": "+1-533-584-2050x5698",
+        "servicePhone": "800957398"
+    },
+    "birthday": "1973-24-06",
+    "ip": "88.24.255.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Three recent much business Republican way adult ground. Around financial just significant authority record whose. Person financial once pull friend force.",
+        "bio": "Push response either decision strong miss account. Help from mind hair. Attorney worker relate few analysis off.\nJoin decision term ever authority they."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
