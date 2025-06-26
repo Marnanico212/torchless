@@ -1,0 +1,25 @@
+{
+    "name": "Bradley Reed",
+    "age": 16,
+    "address": {
+        "street": "Wilson Island",
+        "city": "Aliciaville",
+        "state": "Tennessee",
+        "zip": "97383"
+    },
+    "contact": {
+        "phone": "+1-573-954-3552x8264",
+        "servicePhone": "800038624"
+    },
+    "birthday": "2009-08-09",
+    "ip": "203.144.70.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Something one town soon. Finish degree upon mean leg.\nHere hair court. Back responsibility science room pressure reflect.",
+        "bio": "Catch song hit health. How mind dark different full red my.\nSource recently where major they. Check result second true only economy probably."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
