@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Jerry Stafford",
+    "age": 25,
+    "address": {
+        "street": "Dawson Lodge",
+        "city": "New Michele",
+        "state": "Connecticut",
+        "zip": "19011"
+    },
+    "contact": {
+        "phone": "618.698.2807x641",
+        "servicePhone": "800579249"
+    },
+    "birthday": "2000-10-05",
+    "ip": "74.211.177.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Standard central do arrive. Name on set year. Meet listen save foot data oil ready.\nUnder different show up. Front collection sort trip happen look air himself.",
+        "bio": "Interesting none begin story former high. Language him idea save. Quality floor have present interest occur as."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
