@@ -1,0 +1,25 @@
+{
+    "name": "Todd Rocha",
+    "age": 105,
+    "address": {
+        "street": "Holland Garden",
+        "city": "New Michael",
+        "state": "Louisiana",
+        "zip": "62868"
+    },
+    "contact": {
+        "phone": "948-907-7254",
+        "servicePhone": "800597416"
+    },
+    "birthday": "1920-06-05",
+    "ip": "80.20.17.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Whose as keep agree. Generation federal method face. Clear itself side participant thank you. While sea by sign develop and.",
+        "bio": "Budget this school why arrive someone.\nLevel national manage create child try. Carry management above garden mouth challenge never throw. Know society similar star health."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
