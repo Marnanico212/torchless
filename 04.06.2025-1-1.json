@@ -1,0 +1,25 @@
+{
+    "name": "Jesse Williams",
+    "age": 48,
+    "address": {
+        "street": "Mooney Turnpike",
+        "city": "South Susan",
+        "state": "Maine",
+        "zip": "76120"
+    },
+    "contact": {
+        "phone": "+1-681-229-4354x44833",
+        "servicePhone": "800480278"
+    },
+    "birthday": "1977-20-01",
+    "ip": "154.28.151.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Better appear measure. Matter sort region level call goal opportunity commercial. Decision including member name enter administration industry.",
+        "bio": "Activity Mr again six cup piece. Away best near condition determine natural. Almost get wonder peace."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
