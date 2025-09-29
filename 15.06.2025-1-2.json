@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Christine Moore MD",
+    "age": 88,
+    "address": {
+        "street": "Mallory Estates",
+        "city": "Bateshaven",
+        "state": "New Hampshire",
+        "zip": "60462"
+    },
+    "contact": {
+        "phone": "001-694-265-3975x72976",
+        "servicePhone": "800995983"
+    },
+    "birthday": "1937-04-09",
+    "ip": "173.250.217.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Hear against three scene small. Build read theory each.",
+        "bio": "Identify according news few. Film none offer two test interesting.\nManager another analysis. Need project bed positive."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
