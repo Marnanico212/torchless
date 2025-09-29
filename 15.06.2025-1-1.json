@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Contreras",
+    "age": 106,
+    "address": {
+        "street": "Kevin Unions",
+        "city": "Henryshire",
+        "state": "Tennessee",
+        "zip": "49829"
+    },
+    "contact": {
+        "phone": "+1-557-490-8165x443",
+        "servicePhone": "800452844"
+    },
+    "birthday": "1919-27-03",
+    "ip": "69.16.248.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Exactly decision attack less. Reduce reflect professional history. Society quality participant evening food.\nRead total site believe build end political. Thus hand find pattern base.",
+        "bio": "News human occur edge happy unit west. Election visit realize resource season specific lead. Travel two significant."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}

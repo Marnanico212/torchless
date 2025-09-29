@@ -1,0 +1,25 @@
+{
+    "name": "Virginia Sanders",
+    "age": 52,
+    "address": {
+        "street": "Ellis Centers",
+        "city": "Tonyfort",
+        "state": "Connecticut",
+        "zip": "33100"
+    },
+    "contact": {
+        "phone": "(631)904-5411",
+        "servicePhone": "800658210"
+    },
+    "birthday": "1973-27-03",
+    "ip": "181.207.55.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Summer deal rest remember main. Series remain phone speak key left themselves maybe.\nScore until recognize else consider. Matter through structure none read tax still.",
+        "bio": "Budget trouble remember personal mouth let collection. National read bit enjoy air. Such source keep college measure.\nStation pattern support finish call very them. Participant discussion heavy."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
